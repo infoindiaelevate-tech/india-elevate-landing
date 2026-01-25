@@ -197,11 +197,11 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
 
 const images = [
-  "/hero-images/img1.jpg",
-  "/hero-images/img2.jpg",
-  "/hero-images/img3.jpg",
-  "/hero-images/img4.jpg",
-  "/hero-images/img5.jpg"
+  "/india-elevate-landing/hero-images/img1.jpg",
+  "/india-elevate-landing/hero-images/img2.jpg",
+  "/india-elevate-landing/hero-images/img3.jpg",
+  "/india-elevate-landing/hero-images/img4.jpg",
+  "/india-elevate-landing/hero-images/img5.jpg"
 ];
 
 export default function Hero() {
