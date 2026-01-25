@@ -2,6 +2,7 @@
   "name": "india-elevate-landing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://india-elevate.github.io/india-elevate-landing",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
