@@ -5,7 +5,9 @@ const nextConfig: NextConfig = {
   output: "export",
   images: {
     unoptimized: true,
-  }
+  },
+  basePath: "/india-elevate-landing",
+  assetPrefix: "/india-elevate-landing/",
 };
 
 export default nextConfig;

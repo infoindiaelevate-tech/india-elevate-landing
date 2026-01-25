@@ -49,7 +49,7 @@ export default function Home() {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/bg2_video.mp4" type="video/mp4" />
+          <source src="/india-elevate-landing/bg1_video.mp4" type="video/mp4" />
         </video>
         {/* Heavy overlay to ensure text readability on all sections */}
         <div className="absolute inset-0 bg-black/60 "></div>
