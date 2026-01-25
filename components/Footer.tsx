@@ -49,7 +49,7 @@ export default function Footer() {
           <div className="flex items-center gap-3 mb-4">
             {/* Logo Image */}
             <Image 
-              src="/logo-bg-removed.png" 
+              src="/india-elevate-landing/logo-bg-removed.png" 
               alt="India Elevate Logo" 
               width={40} 
               height={40} 
