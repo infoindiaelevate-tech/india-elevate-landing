@@ -79,13 +79,13 @@ export const metadata: Metadata = {
     icon: [
       {
         media: '(prefers-color-scheme: light)',
-        url: '/india-elevate-landing/logo-bg-removed.png',
-        href: '/india-elevate-landing/logo-bg-removed.png',
+        url: '/logo-bg-removed.png',
+        href: '/logo-bg-removed.png',
       },
       {
         media: '(prefers-color-scheme: dark)',
-        url: '/india-elevate-landing/logo-bg-removed.png',
-        href: '/india-elevate-landing/logo-bg-removed.png',
+        url: '/logo-bg-removed.png',
+        href: '/logo-bg-removed.png',
       },
     ],
   },
@@ -99,7 +99,7 @@ export const metadata: Metadata = {
     images: [
       {
         // Ensure this path matches one of your actual hero images
-        url: "/india-elevate-landing/hero-images/img1.jpg", 
+        url: "/hero-images/img1.jpg", 
         width: 1200,
         height: 630,
         alt: "India Elevate Classroom",
