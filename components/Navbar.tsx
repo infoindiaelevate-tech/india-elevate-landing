@@ -189,8 +189,8 @@ export default function Navbar() {
                        className="object-contain"
                     />
         {/* Logo */}
-        <div className="text-2xl font-bold text-white cursor-pointer" onClick={(e) => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-          India<span className="text-blue-400"> Elevate</span>
+        <div className="text-2xl font-bold text-blue-400 cursor-pointer" onClick={(e) => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+          India<span className="text-[#fd901d]"> Elevate</span>
         </div>
         </div>
 
