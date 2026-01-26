@@ -65,7 +65,7 @@ export default function Home() {
         <Journey />
         <Products />
         <Services />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <About />
         <Contact />
         

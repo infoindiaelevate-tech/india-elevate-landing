@@ -33,9 +33,9 @@
 //version 2
 export default function Journey() {
     const milestones = [
-      { year: "PAST", title: "Step 1: The Problem We Saw", desc: "We saw a gap between what students learn in classrooms and the real-world skills required in STEM, Robotics, and AI." },
-      { year: "PRESENT", title: "Step 2: The Solution We’re Building", desc: "India Elevate is building practical, hands-on learning programs that make STEM, Robotics, and AI accessible, engaging, and future-ready." },
-      { year: "FUTURE", title: "Step 3: The Impact We Aim to Create", desc: "Our goal is to empower schools and students across India with future-ready skills—starting small, growing responsibly, and scaling with impact." },
+      { year: "", title: "Step 1: The Problem We Saw", desc: "We saw a gap between what students learn in classrooms and the real-world skills required in STEM, Robotics, and AI." },
+      { year: "", title: "Step 2: The Solution We’re Building", desc: "India Elevate is building practical, hands-on learning programs that make STEM, Robotics, and AI accessible, engaging, and future-ready." },
+      { year: "", title: "Step 3: The Impact We Aim to Create", desc: "Our goal is to empower schools and students across India with future-ready skills—starting small, growing responsibly, and scaling with impact." },
     ];
   
     return (

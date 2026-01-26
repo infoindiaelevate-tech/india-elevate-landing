@@ -47,7 +47,6 @@ export default function Products() {
               <div className="text-blue-400 mb-4 group-hover:scale-110 transition">{p.icon}</div>
               <h3 className="text-xl font-bold mb-2 text-white">{p.title}</h3>
               <p className="text-gray-400 mb-4">{p.desc}</p>
-              <span className="text-blue-400 font-semibold group-hover:text-blue-300">Learn More →</span>
             </div>
           ))}
         </div>

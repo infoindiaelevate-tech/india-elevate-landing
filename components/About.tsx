@@ -24,11 +24,11 @@ export default function About() {
           >
             <h2 className="text-4xl font-bold text-white mb-6">Building the <span className="text-blue-500">Innovators</span> of Tomorrow</h2>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Founded in 2018, IndiaElevate was born from a simple idea: Textbooks aren't enough. 
+              Founded in 2025, IndiaElevate was born from a simple idea: Textbooks aren't enough. 
               We believe that every child in India deserves access to world-class tools to experiment, break, build, and learn.
             </p>
             <p className="text-gray-300 mb-8 leading-relaxed">
-              Today, we are a team of engineers, educators, and dreamers working with over 150+ schools to bridge the gap between theoretical knowledge and real-world application.
+              Today, we are a team of engineers, educators, and dreamers working with schools to bridge the gap between theoretical knowledge and real-world application.
             </p>
 
             <div className="space-y-3">
@@ -53,7 +53,7 @@ export default function About() {
               <div className="absolute inset-0 bg-slate-800/50 backdrop-blur-sm flex flex-col items-center justify-center p-8 text-center hover:bg-slate-800/40 transition duration-500">
                  <h3 className="text-6xl font-bold text-white/20 mb-4 group-hover:text-white/40 transition duration-500">MISSION</h3>
                  <p className="text-xl text-white font-serif italic relative z-10">
-                   "To equip 1 million Indian students with the power of coding and robotics by 2025."
+                   "To equip 1 million Indian students with the power of AI and robotics by 2027."
                  </p>
               </div>
             </div>

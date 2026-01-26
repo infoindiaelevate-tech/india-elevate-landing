@@ -195,6 +195,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
+import Link from 'next/link';
 
 const images = [
   "/india-elevate-landing/hero-images/img1.jpg",
@@ -234,12 +235,19 @@ export default function Hero() {
             Hands-on learning programs designed for schools, institutions, and future innovators.
           </p>
           <div className="mt-8 flex gap-4">
-            <button className="bg-blue-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-500 transition shadow-[0_0_20px_rgba(37,99,235,0.5)] hover:scale-105 transform duration-200">
+            <Link 
+              href="/#contact"
+              className="bg-blue-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-500 transition shadow-[0_0_20px_rgba(37,99,235,0.5)] hover:scale-105 transform duration-200 flex items-center justify-center"
+            >
               Book a Free Consultation
-            </button>
-            <button className="bg-transparent border-2 border-white/30 text-white px-8 py-3 rounded-full font-semibold hover:bg-white/10 backdrop-blur-sm transition">
+            </Link>
+            
+            <Link 
+              href="/#products"
+              className="bg-transparent border-2 border-white/30 text-white px-8 py-3 rounded-full font-semibold hover:bg-white/10 backdrop-blur-sm transition flex items-center justify-center"
+            >
               Explore Programs
-            </button>
+            </Link>
           </div>
         </motion.div>
 

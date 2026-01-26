@@ -173,7 +173,7 @@ export default function Navbar() {
     { name: 'Our Journey', href: '#journey' },
     { name: 'Products', href: '#products' },
     { name: 'Services', href: '#services' },
-    { name: 'Impact', href: '#testimonials' }, // Mapped 'Impact' text to 'stats' ID
+    // { name: 'Impact', href: '#testimonials' }, // Mapped 'Impact' text to 'stats' ID
     { name: 'About', href: '#about' },
   ];
 

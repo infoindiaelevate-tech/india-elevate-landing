@@ -68,7 +68,7 @@ export default function Footer() {
           <ul className="space-y-2 text-sm text-gray-400">
             <li><a href="#about" className="hover:text-blue-400 transition">About Us</a></li>
             <li><a href="#products" className="hover:text-blue-400 transition">Our Products</a></li>
-            <li><a href="#testimonials" className="hover:text-blue-400 transition">Success Stories</a></li>
+            {/* <li><a href="#testimonials" className="hover:text-blue-400 transition">Success Stories</a></li> */}
           </ul>
         </div>
 
@@ -76,14 +76,14 @@ export default function Footer() {
         <div>
           <h4 className="font-bold mb-4 text-gray-200">Contact</h4>
           <ul className="space-y-2 text-sm text-gray-400">
-            <li>123 Innovation Park, Bangalore, India</li>
+            {/* <li>123 Innovation Park, Bangalore, India</li> */}
             <li>info.indiaelevate@gmail.com</li>
-            <li>+91 1234567890 </li>
+            {/* <li>+91 1234567890 </li> */}
           </ul>
         </div>
 
         {/* 4️⃣ Fourth Column: Socials */}
-        <div>
+        {/* <div>
           <h4 className="font-bold mb-4 text-gray-200">Follow Us</h4>
           <div className="flex space-x-4">
             <Facebook className="w-5 h-5 hover:text-blue-500 cursor-pointer transition transform hover:scale-110" />
@@ -91,12 +91,12 @@ export default function Footer() {
             <Linkedin className="w-5 h-5 hover:text-blue-600 cursor-pointer transition transform hover:scale-110" />
             <Instagram className="w-5 h-5 hover:text-pink-500 cursor-pointer transition transform hover:scale-110" />
           </div>
-        </div>
+        </div> */}
 
       </div>
 
       <div className="border-t border-gray-800 mt-12 pt-8 text-center text-xs text-gray-500">
-        © 2024 India Elevate. All rights reserved.
+        © 2025 India Elevate. All rights reserved.
       </div>
     </footer>
   );
