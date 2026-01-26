@@ -7,8 +7,8 @@ const nextConfig = {
     unoptimized: true,
   },
   // ⚠️ Ensure this matches your repo name EXACTLY
-  basePath: "/india-elevate-landing",
-  assetPrefix: "/india-elevate-landing/", 
+  // basePath: "/india-elevate-landing",
+  // assetPrefix: "/india-elevate-landing/", 
   trailingSlash: true,
 };
 
