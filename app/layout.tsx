@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     icon: [
       {
         media: '(prefers-color-scheme: light)',
-        url: '/logo-bg-removed.png',
-        href: '/logo-bg-removed.png',
+        url: '/india-elevate-landing/logo-bg-removed.png',
+        href: '/india-elevate-landing/logo-bg-removed.png',
       },
       {
         media: '(prefers-color-scheme: dark)',
-        url: '/logo-bg-removed.png',
-        href: '/logo-bg-removed.png',
+        url: '/india-elevate-landing/logo-bg-removed.png',
+        href: '/india-elevate-landing/logo-bg-removed.png',
       },
     ],
   },
