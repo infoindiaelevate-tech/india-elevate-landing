@@ -182,7 +182,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6 flex justify-between items-center">
       <div className="flex items-center gap-3 mb-4">
                      <Image 
-                       src="/india-elevate-landing/logo-bg-removed.png" 
+                       src="/logo-bg-removed.png" 
                        alt="India Elevate Logo" 
                        width={40} 
                        height={40} 
